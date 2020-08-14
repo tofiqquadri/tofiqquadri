@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+# Hi, I'm Tofiq 👋 👦 💻
+
+I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Angular, NodeJs, Jamstack (JavaScript, APIs + Markup), ExpressJs, MongoDB, Firebase and GraphQL.
+
+
+## Find me around the web 🌎:
+- Learning in public on <a href="https://www.youtube.com/channel/UCCjv5s3o3IuKPH0KycfyWHg">YouTube</a> 📹 ✍🏾
+- Sharing updates on <a href="https://www.linkedin.com/in/tofiqquadri/">LinkedIn</a> 💼
+- Get your project done <a href="https://developershive.com">Developers Hive</a> 🏓
+
 <!--
 **tofiqquadri/tofiqquadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
