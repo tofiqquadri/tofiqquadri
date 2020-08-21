@@ -8,7 +8,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 - Instagram clone in Android (2016) <a href="https://github.com/tofiqquadri/Instagram" target="_blank">Instagram</a> ✔
 - Check more on my profile <a href="https://github.com/tofiqquadri" target="_blank">Tofiq Quadri</a> ✔
 
-## Like what I do? Sponser my work on petreon 🎅:
+## Like what I do? Sponsor my work on petreon 🎅:
 - Patreon <a href="https://www.patreon.com/tofiqquadri" target="_blank">Tofiq Quadri</a> ✔
 
 ## Find me around the web 🌎:
