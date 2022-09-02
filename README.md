@@ -10,9 +10,9 @@
 
 🎓 I'm a graduate in Computer Science Engineering 🏛. I'm a passionate learner interested about making open-source more accessible, creating technology to elevate people, and building community. 💡. Making technology accessible to Real World & help people solve their problems excites me the most ✨. Apart from that I make casually make open source contributions & tutorials on complex programming concepts 👨🏻‍💻. I'm currently into Full Stack Web Development 🕸️ and working with projects WorldWide 🤓.
 
-Joined Github **{{ ACCOUNT_AGE }}** years ago.
+Joined Github in 2015.
 
-Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
+Since then I pushed 4999+ commits, opened 467+ issues, submitted 943+ pull requests, created 100+ gists and contributed to 10**+ public repositories.
 
 Like My Work?
 
