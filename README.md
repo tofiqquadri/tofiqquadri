@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Tofiq Quadri!](https://github.com/tofiqquadri/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tofiqquadri)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://tofiqquadri.com/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://developershive.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/tofiqquadri)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/tofiqquadri/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/tofiqquadri)
@@ -12,7 +12,7 @@
 
 Joined Github 6 years ago.
 
-Since then I pushed 945+ commits, opened 14+ issues, submitted 122+ pull requests, created 0+ gists and contributed to 7+ public repositories.
+Since then I pushed 946+ commits, opened 14+ issues, submitted 122+ pull requests, created 0+ gists and contributed to 7+ public repositories.
 
 Like My Work?
 
