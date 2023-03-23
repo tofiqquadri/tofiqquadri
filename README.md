@@ -12,7 +12,7 @@
 
 Joined Github 7 years ago.
 
-Since then I pushed 993+ commits, opened 22+ issues, submitted 130+ pull requests, created 0+ gists and contributed to 6+ public repositories.
+Since then I pushed 994+ commits, opened 22+ issues, submitted 130+ pull requests, created 0+ gists and contributed to 6+ public repositories.
 
 Like My Work?
 
