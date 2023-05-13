@@ -12,11 +12,7 @@
 
 Joined Github 7 years ago.
 
-Since then I pushed 1006+ commits, opened 23+ issues, submitted 130+ pull requests, created 0+ gists and contributed to 5+ public repositories.
-
-Like My Work?
-
-<a href="https://www.patreon.com/tofiqquadri" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+Since then I pushed 1007+ commits, opened 23+ issues, submitted 130+ pull requests, created 0+ gists and contributed to 5+ public repositories.
 
 [![](https://gitwar.herokuapp.com/badge?username=tofiqquadri&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
