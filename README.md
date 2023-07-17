@@ -12,7 +12,7 @@
 
 Joined Github 7 years ago.
 
-Since then I pushed 1023+ commits, opened 23+ issues, submitted 130+ pull requests, created 0+ gists and contributed to 5+ public repositories.
+Since then I pushed 1024+ commits, opened 23+ issues, submitted 130+ pull requests, created 0+ gists and contributed to 5+ public repositories.
 
 [![](https://gitwar.herokuapp.com/badge?username=tofiqquadri&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
