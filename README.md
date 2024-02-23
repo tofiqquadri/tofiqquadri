@@ -10,7 +10,7 @@
 
 Joined Github 8 years ago.
 
-Since then I pushed 1169+ commits, opened 24+ issues, submitted 135+ pull requests, created 0+ gists and contributed to 2+ public repositories.
+Since then I pushed 1170+ commits, opened 24+ issues, submitted 135+ pull requests, created 0+ gists and contributed to 2+ public repositories.
 
 [![](https://gitwar.herokuapp.com/badge?username=tofiqquadri&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
@@ -20,20 +20,6 @@ Since then I pushed 1169+ commits, opened 24+ issues, submitted 135+ pull reques
 - 💬 &nbsp; Ask me about anything [here](https://github.com/tofiqquadri/tofiqquadri/issues)! I am happy to help.
 - 📫 &nbsp; How to reach me? Find my Email Address.
 - 📝 &nbsp; Checkout my [Portfolio](https://github.com/tofiqquadri/tofiqquadri/blob/master/portfolio.pdf).
-
-### Languages and Tools:
-
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_nextjs.png?raw=true" alt="nextjs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="expressjs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg" alt="typescript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 ### Projects and Dev Stuffs:
 
