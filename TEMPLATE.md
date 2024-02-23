@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Tofiq Quadri!](https://github.com/tofiqquadri/)
+## Hire best freelance full stack developer in India [Tofiq Quadri!](https://github.com/tofiqquadri/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tofiqquadri)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://tofiqquadri.com/)
@@ -8,8 +8,6 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=tofiqquadri.tofiqquadri&style=flat-square&color=0088cc)
 
-🎓 I'm a graduate in Computer Science Engineering 🏛. I'm a passionate learner interested about making open-source more accessible, creating technology to elevate people, and building community. 💡. Making technology accessible to Real World & help people solve their problems excites me the most ✨. Apart from that I make casually make open source contributions & tutorials on complex programming concepts 👨🏻‍💻. I'm currently into Full Stack Web Development 🕸️ and working with projects WorldWide 🤓.
-
 Joined Github {{ ACCOUNT_AGE }} years ago.
 
 Since then I pushed {{ COMMITS }}+ commits, opened {{ ISSUES }}+ issues, submitted {{ PULL_REQUESTS }}+ pull requests, created {{ GISTS }}+ gists and contributed to {{ REPOSITORIES_CONTRIBUTED_TO }}+ public repositories.
@@ -18,11 +16,8 @@ Since then I pushed {{ COMMITS }}+ commits, opened {{ ISSUES }}+ issues, submitt
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with ReactJS, NextJs, Nodejs, Express, <br /> Graphql, Mongodb, TypeScript, Javascript, etc.
-- 🚀 &nbsp; I’m currently working with my clients on their exclusive projects using a wide range of tech stack.
 - 👨🏻‍💻 &nbsp; Only a few my projects are available on [Github](https://github.com/tofiqquadri) most of them are on private servers or BitBucket, so what you see here is just a glimpse.
 - 💬 &nbsp; Ask me about anything [here](https://github.com/tofiqquadri/tofiqquadri/issues)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me? Find my Email Address.
 - 📝 &nbsp; Checkout my [Portfolio](https://github.com/tofiqquadri/tofiqquadri/blob/master/portfolio.pdf).
 
