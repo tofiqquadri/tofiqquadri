@@ -1,4 +1,4 @@
-## Hire freelance full stack developer: [Tofiq Quadri!](https://github.com/tofiqquadri/)
+## Hey 👋, I'm [Tofiq Quadri!](https://github.com/tofiqquadri/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tofiqquadri)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://tofiqquadri.com/)
@@ -8,11 +8,11 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=tofiqquadri.tofiqquadri&style=flat-square&color=0088cc)
 
-🎓 Graduate with a bachelor's Computer Science Engineering 🏛. Passionate learner interested about making open-source more accessible, creating technology to elevate people, and building community. 💡. Making technology accessible to Real World & help people solve their problems excites me the most ✨. Apart from that I make casually make open source contributions & tutorials on complex programming concepts 👨🏻‍💻. I'm currently into Full Stack Web Development 🕸️ and working with projects WorldWide 🤓.
+🎓 I'm a graduate in Computer Science Engineering 🏛. I'm a passionate learner interested about making open-source more accessible, creating technology to elevate people, and building community. 💡. Making technology accessible to Real World & help people solve their problems excites me the most ✨. Apart from that I make casually make open source contributions & tutorials on complex programming concepts 👨🏻‍💻. I'm currently into Full Stack Web Development 🕸️ and working with projects WorldWide 🤓.
 
 Joined Github 8 years ago.
 
-Since then I pushed 1163+ commits, opened 24+ issues, submitted 134+ pull requests, created 0+ gists and contributed to 2+ public repositories.
+Since then I pushed 1168+ commits, opened 24+ issues, submitted 135+ pull requests, created 0+ gists and contributed to 2+ public repositories.
 
 [![](https://gitwar.herokuapp.com/badge?username=tofiqquadri&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
@@ -90,7 +90,7 @@ Since then I pushed 1163+ commits, opened 24+ issues, submitted 134+ pull reques
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/tofiqquadri/Instagram?label=javascript&style=flat-square"/></td>
       </tr>
       <tr>
-	<td><a href="https://github.com/tofiqquadri/react-network-status"><b>👨🏻‍💻 react-network-status</b></a></td>
+	      <td><a href="https://github.com/tofiqquadri/react-network-status"><b>👨🏻‍💻 react-network-status</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/tofiqquadri/react-network-status?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/tofiqquadri/react-network-status?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/tofiqquadri/react-network-status?style=flat-square"/></td>
@@ -98,7 +98,7 @@ Since then I pushed 1163+ commits, opened 24+ issues, submitted 134+ pull reques
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/tofiqquadri/react-network-status?style=flat-square"/></td> 
       </tr>
       <tr>
-	<td><a href="https://github.com/tofiqquadri/tofiqquadri"><b>🤓 tofiqquadri</b></a></td>
+	      <td><a href="https://github.com/tofiqquadri/tofiqquadri"><b>🤓 tofiqquadri</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/tofiqquadri/tofiqquadri?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/tofiqquadri/tofiqquadri?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/tofiqquadri/tofiqquadri?style=flat-square"/></td>
