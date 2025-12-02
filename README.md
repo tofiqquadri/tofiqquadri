@@ -105,11 +105,11 @@ Git • Docker • CI/CD • AWS • Vercel • Jira • Slack
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=tofiqquadri&theme=radical&no-frame=true&row=1)
+![trophy](https://github-profile-trophy.vercel.app/?username=tofiqquadri&theme=radical&no-frame=true&row=1&margin-w=15&margin-h=15)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tofiqquadri&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tofiqquadri&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tofiqquadri&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tofiqquadri&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=github-readme-stats)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tofiqquadri&theme=radical&hide_border=true)
 
@@ -138,11 +138,6 @@ I'm actively seeking full-time senior/lead frontend engineering roles at product
 - 📧 Reach me at: **tofiqquadri@gmail.com**
 - 🔗 LinkedIn: **[Connect with me on LinkedIn](https://linkedin.com/in/tofiqquadri)**
 - 🌐 Portfolio: **[tofiqquadri.com](https://tofiqquadri.com)**
-
-### 📈 Contribution Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
